@@ -1,0 +1,59 @@
+/*global styles*/
+
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px
+
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.4;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+.container {
+  padding: 0rem;
+}
+
+/*header styles*/
+
+.linkStyle {
+  color: #000;
+  text-decoration: none;
+}
+
+/*form styles*/
+
+.btn {
+  display: inline-block;
+  border: none;
+  background: #555;
+  color: #fff;
+  padding: 10px 40px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #666;
+}
+
+/*todo styles*/
+
+
+
+.btnStyle {
+  background: red;
+  color: white;
+  border: none;
+  padding: 8px;
+  border-radius: 45%;
+  cursor: pointer;
+  float: right;
+}
+
